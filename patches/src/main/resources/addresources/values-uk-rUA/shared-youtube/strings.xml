@@ -93,6 +93,7 @@ Second \"item\" text"</string>
 
 Якщо ви є користувачем YouTube Premium, це налаштування може не знадобитися"</string>
   <string name="morphe_spoof_video_streams_no_clients_toast">Не вдалося отримати жодних клієнтських потоків</string>
+  <!-- 'Default client' must use the same translation as morphe_spoof_video_streams_client_type_title -->
   <string name="morphe_spoof_video_streams_user_dialog_message">Вимкнення цього налаштування може спричинити проблеми з відтворенням.</string>
   <!-- 'Spoof video streams' must use the same translation as morphe_spoof_video_streams_title.
          "Sign in to Android VR" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_about_title -->
@@ -223,6 +224,7 @@ Second \"item\" text"</string>
   <string name="morphe_external_potoken_provider_about_summary">"Ця функція наразі в розробці та може не працювати
 
 Натисніть тут, щоб завантажити PotHelper"</string>
+  <!-- 'Spoof video streams' must use the same translation as morphe_spoof_video_streams_title -->
   <!-- misc.spoof.appversion.spoofAppVersionPatch -->
   <string name="morphe_spoof_app_version_title">Підміна версії застосунку</string>
   <string name="morphe_spoof_app_version_summary">Змушує сервер думати, що ви використовуєте стару версію застосунку, щоб відновити застарілі функції інтерфейсу</string>

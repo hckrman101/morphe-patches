@@ -560,6 +560,22 @@ Eolas: Seans nach n-oibreoidh sé ar shruthanna beo"</string>
   <string name="morphe_queue_override_flyout_menu_summary">Osclaíonn sé an scuaine Morphe in ionad scuaine YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Cuir mír roghchláir scuaine amach beatha leis</string>
   <string name="morphe_queue_add_flyout_menu_summary">Cuireann sé mír bhreise ar an leathanach leis. Cumasaigh é seo mura bhfuil \"Cuir leis an scuaine\" le feiceáil.</string>
+  <string name="morphe_local_queue_title">Ciú ar stíl Premium</string>
+  <string name="morphe_local_queue_summary">"Cuirtear in ionad an chiú Morphe ceann a fhanann ar an ngléas, a sheinneann ar aghaidh leis féin agus is féidir é a atheagrú trí tharraingt
+
+Eolas: Ní thosaíonn an chéad fhíseán eile atá sa chiú ach amháin fad is atá YouTube ar an scáileán"</string>
+  <string name="morphe_local_queue_sheet_title">Ciú</string>
+  <string name="morphe_local_queue_open">Ciú (%d)</string>
+  <string name="morphe_local_queue_clear">Glan ar fad</string>
+  <string name="morphe_local_queue_empty">Níl aon rud sa scuaine</string>
+  <string name="morphe_local_queue_empty_hint">Úsáid \'Seinn ina dhiaidh sin sa scuaine\' ar aon fhíseán</string>
+  <string name="morphe_local_queue_now_playing">Ag seinm anois</string>
+  <string name="morphe_local_queue_play_next">Seinn ina dhiaidh sin sa scuaine</string>
+  <string name="morphe_local_queue_reorder">Athordaigh</string>
+  <string name="morphe_local_queue_remove">Bain</string>
+  <string name="morphe_local_queue_added">Cuireadh leis an scuaine</string>
+  <string name="morphe_local_queue_full">Tá an scuaine lán</string>
+  <string name="morphe_local_queue_play_failed">Níorbh fhéidir an físeán a chur ar siúl</string>
   <string name="morphe_ads_channel_whitelist_flyout_menu_title">Liosta bán fógraí sa roghchlár sleamhnáin</string>
   <string name="morphe_ads_channel_whitelist_flyout_menu_summary">Cuireann sé mír fillte leis a ligeann do fhógraí seinm ar chainéal an fhíseáin sin</string>
   <!-- "Spoof video streams" must use the same translation as morphe_spoof_video_streams_screen_title -->
@@ -1157,7 +1173,6 @@ Teorainn: Mura bhfuil 'Barra gníomhaíochta seanfhíseáin athchóirithe' múch
   <string name="morphe_custom_font_file_title">Comhad cló saincheaptha</string>
   <string name="morphe_custom_font_file_summary">Roghnaigh comhad cló TTF nó OTF</string>
   <string name="morphe_custom_font_file_invalid">Ní cló TTF ná OTF é an comhad roghnaithe</string>
-  <string name="morphe_custom_font_pick_file_first">Roghnaigh comhad cló ar dtús</string>
   <string name="morphe_custom_font_failed_to_load">Níorbh fhéidir an cló saincheaptha a lódáil agus tá sé múchta</string>
   <!-- layout.branding.customBrandingPatch -->
   <!-- layout.branding.header.changeHeaderPatch -->

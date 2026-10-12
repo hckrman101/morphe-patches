@@ -93,6 +93,7 @@ Til að breyta tákninu alls staðar skaltu keyra plástra aftur og breyta plás
 
 Ef þú ert YouTube Premium notandi gæti þessi stilling verið óþarf"</string>
   <string name="morphe_spoof_video_streams_no_clients_toast">Ekki tókst að sækja klientastreymi</string>
+  <!-- 'Default client' must use the same translation as morphe_spoof_video_streams_client_type_title -->
   <string name="morphe_spoof_video_streams_user_dialog_message">Ef þú slökkvir á þessari stillingu gæti það valdið vandræðum við spilun.</string>
   <!-- 'Spoof video streams' must use the same translation as morphe_spoof_video_streams_title.
          "Sign in to Android VR" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_about_title -->
@@ -223,6 +224,7 @@ Til að nota þessa eiginleika, slökktu á 'Falsun myndbandsstrauma'"</string>
   <string name="morphe_external_potoken_provider_about_summary">"Þessi eiginleiki er nú í þróun og gæti ekki virkað
 
 Snertu hér til að hlaða niður PotHelper"</string>
+  <!-- 'Spoof video streams' must use the same translation as morphe_spoof_video_streams_title -->
   <!-- misc.spoof.appversion.spoofAppVersionPatch -->
   <string name="morphe_spoof_app_version_title">Gerðu app útgáfuna að breytast</string>
   <string name="morphe_spoof_app_version_summary">Blekkur netþjóninn til að láta það virðast eins og þú ert að nota eldri app útgáfu til að endurheimta eldri UI eiginleika</string>

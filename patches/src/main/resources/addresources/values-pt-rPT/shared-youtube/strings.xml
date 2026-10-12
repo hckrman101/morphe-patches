@@ -93,6 +93,7 @@ Para alterar o ícone em todos os lugares, aplique o patch novamente e altere a 
 
 Se você é um usuário do YouTube Premium, esta configuração pode não ser necessária"</string>
   <string name="morphe_spoof_video_streams_no_clients_toast">Não foi possível recuperar nenhum fluxo de cliente</string>
+  <!-- 'Default client' must use the same translation as morphe_spoof_video_streams_client_type_title -->
   <string name="morphe_spoof_video_streams_user_dialog_message">Desativar esta configuração pode causar problemas de reprodução.</string>
   <!-- 'Spoof video streams' must use the same translation as morphe_spoof_video_streams_title.
          "Sign in to Android VR" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_about_title -->
@@ -223,6 +224,7 @@ Para usar este recurso, desative 'Falsificar fluxos de vídeo'"</string>
   <string name="morphe_external_potoken_provider_about_summary">"Este recurso está atualmente em desenvolvimento e pode não funcionar
 
 Toque aqui para baixar o PotHelper"</string>
+  <!-- 'Spoof video streams' must use the same translation as morphe_spoof_video_streams_title -->
   <!-- misc.spoof.appversion.spoofAppVersionPatch -->
   <string name="morphe_spoof_app_version_title">Versão do Spoof app</string>
   <string name="morphe_spoof_app_version_summary">Engana o servidor, fazendo com que ele pense que você está usando uma versão mais antiga do aplicativo, para restaurar recursos de interface de usuário legados.</string>
